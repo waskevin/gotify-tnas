@@ -1,0 +1,97 @@
+[en-us]
+name = "Gotify"
+auth = "waskevin"
+descript = "A self-hosted notification server with a web interface and client API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[zh-cn]
+name = "Gotify"
+auth = "waskevin"
+descript = "A self-hosted notification server with a web interface and client API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[zh-hk]
+name = "Gotify"
+auth = "waskevin"
+descript = "A self-hosted notification server with a web interface and client API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[fr-fr]
+name = "Gotify"
+auth = "waskevin"
+descript = "A self-hosted notification server with a web interface and client API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[de-de]
+name = "Gotify"
+auth = "waskevin"
+descript = "A self-hosted notification server with a web interface and client API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[it-it]
+name = "Gotify"
+auth = "waskevin"
+descript = "A self-hosted notification server with a web interface and client API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[es-es]
+name = "Gotify"
+auth = "waskevin"
+descript = "A self-hosted notification server with a web interface and client API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[hu-hu]
+name = "Gotify"
+auth = "waskevin"
+descript = "A self-hosted notification server with a web interface and client API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[ja-jp]
+name = "Gotify"
+auth = "waskevin"
+descript = "A self-hosted notification server with a web interface and client API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[ko-kr]
+name = "Gotify"
+auth = "waskevin"
+descript = "A self-hosted notification server with a web interface and client API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[pl-pl]
+name = "Gotify"
+auth = "waskevin"
+descript = "A self-hosted notification server with a web interface and client API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[ru-ru]
+name = "Gotify"
+auth = "waskevin"
+descript = "A self-hosted notification server with a web interface and client API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[tr-tr]
+name = "Gotify"
+auth = "waskevin"
+descript = "A self-hosted notification server with a web interface and client API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[pt-pt]
+name = "Gotify"
+auth = "waskevin"
+descript = "A self-hosted notification server with a web interface and client API."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
