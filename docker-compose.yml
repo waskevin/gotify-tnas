@@ -1,0 +1,21 @@
+version: "3.8"
+services:
+  gotify:
+    image: gotify/server:3.1.1
+    restart: unless-stopped
+    user: "1000:1000"
+    ports:
+      - "11008:80"
+    volumes:
+      - ./data:/app/data
+    environment:
+      - TZ=Asia/Shanghai
+    healthcheck:
+      test: ["CMD", "./gotify-app", "version"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+x-app-meta:
+  web:
+    port: 11008
+    protocol: http
